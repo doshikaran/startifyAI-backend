@@ -4,22 +4,6 @@
 
 ---
 
-## 📚 **Table of Contents**  
-
-1. [Introduction](#introduction)  
-2. [Features](#features)  
-3. [System Overview](#system-overview)  
-4. [Tech Stack](#tech-stack)  
-5. [Setup & Installation](#setup--installation)  
-6. [Environment Variables](#environment-variables)  
-7. [API Endpoints](#api-endpoints)  
-8. [Running the Backend](#running-the-backend)  
-9. [Testing](#testing)  
-10. [Contributing](#contributing)  
-11. [License](#license)  
-
----
-
 ## 🌟 **Introduction**  
 
 The **StartifyAI Backend** serves as the brain of the application, managing API requests, performing data validation, querying vector databases, and interacting with AI models for health checks, global queries, and pitch deck generation.
