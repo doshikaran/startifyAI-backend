@@ -1,0 +1,113 @@
+{
+    "pitch_deck": {
+      "1. Title Slide": {
+        "Purpose": "Introduce the startup",
+        "Content": [
+          "Startup Name",
+          "Tagline/Slogan",
+          "Logo",
+          "Founder's Name",
+          "Date of Presentation"
+        ]
+      },
+      "2. Problem Statement": {
+        "Purpose": "Highlight the problem being solved",
+        "Content": [
+          "Clearly define the problem",
+          "Explain who is affected",
+          "Show the magnitude of the problem",
+          "Use statistics or data to support claims"
+        ]
+      },
+      "3. Solution": {
+        "Purpose": "Present the startup's solution to the problem",
+        "Content": [
+          "Describe the product/service",
+          "Explain how it solves the problem",
+          "Include key features or unique selling points"
+        ]
+      },
+      "4. Market Opportunity": {
+        "Purpose": "Demonstrate the market potential",
+        "Content": [
+          "Total Addressable Market (TAM)",
+          "Serviceable Addressable Market (SAM)",
+          "Serviceable Obtainable Market (SOM)",
+          "Market growth trends and key insights"
+        ]
+      },
+      "5. Product/Service Demo": {
+        "Purpose": "Showcase the product or service in action",
+        "Content": [
+          "Screenshots of product/interface",
+          "Demo video or live demo link",
+          "Customer testimonials (if available)"
+        ]
+      },
+      "6. Business Model": {
+        "Purpose": "Explain how the startup makes money",
+        "Content": [
+          "Revenue streams",
+          "Pricing strategy",
+          "Sales model"
+        ]
+      },
+      "7. Traction": {
+        "Purpose": "Show proof of market validation",
+        "Content": [
+          "Key performance metrics (e.g., revenue, user growth)",
+          "Customer testimonials",
+          "Partnerships or collaborations"
+        ]
+      },
+      "8. Go-to-Market Strategy": {
+        "Purpose": "Explain how you plan to acquire customers",
+        "Content": [
+          "Marketing strategy",
+          "Sales channels",
+          "Customer acquisition cost (CAC)"
+        ]
+      },
+      "9. Competitive Analysis": {
+        "Purpose": "Show understanding of competition",
+        "Content": [
+          "Competitor landscape",
+          "Startup's competitive advantage",
+          "Comparison table highlighting unique features"
+        ]
+      },
+      "10. Financial Projections": {
+        "Purpose": "Show financial expectations",
+        "Content": [
+          "3-5 year revenue projections",
+          "Key financial metrics (e.g., EBITDA, profit margins)",
+          "Break-even analysis"
+        ]
+      },
+      "11. Team Slide": {
+        "Purpose": "Introduce the core team members",
+        "Content": [
+          "Founders' names and titles",
+          "Key team members and their roles",
+          "Brief bio or relevant experience"
+        ]
+      },
+      "12. Funding Ask": {
+        "Purpose": "Clearly state the funding requirements",
+        "Content": [
+          "Amount of funding sought",
+          "Equity or investment terms",
+          "How funds will be allocated (e.g., product, marketing, hiring)"
+        ]
+      },
+      "13. Closing Slide": {
+        "Purpose": "Leave a lasting impression",
+        "Content": [
+          "Call-to-action (e.g., 'Let's connect', 'Join us on this journey')",
+          "Contact details (email, website, phone)",
+          "Social media links"
+        ]
+      }
+    }
+  }
+  

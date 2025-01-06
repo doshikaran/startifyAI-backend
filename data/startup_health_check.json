@@ -1,0 +1,197 @@
+{
+    "startup_health_checkup": {
+      "Pre-seed": {
+        "Cash Flow Management": {
+          "Operating Cash Flow (OCF)": "Negative to Slightly Positive",
+          "Cash Flow Forecasting": "3-6 months forecast"
+        },
+        "Profitability Ratios": {
+          "Gross Profit Margin": "10-20%",
+          "Net Profit Margin": "Negative",
+          "ROI": "Early investment phase, limited ROI data"
+        },
+        "Burn Rate": {
+          "Gross Burn Rate": "$20,000-$50,000/month",
+          "Net Burn Rate": "$15,000-$45,000/month"
+        },
+        "Liquidity Ratios": {
+          "Current Ratio": "0.8-1.2",
+          "Quick Ratio": "0.7-1.0"
+        },
+        "Debt Management": {
+          "Debt-to-Equity Ratio": "0.2-0.5",
+          "Interest Coverage Ratio": "N/A (early-stage revenue limited)"
+        },
+        "CAC and LTV": {
+          "CAC": "$200-$500",
+          "LTV": "$500-$2,000",
+          "LTV:CAC Ratio": "2:1"
+        },
+        "Revenue Growth": {
+          "YoY Growth": "N/A",
+          "MRR": "$0-$5,000"
+        }
+      },
+      "Series A": {
+        "Cash Flow Management": {
+          "Operating Cash Flow (OCF)": "Negative to Break-Even",
+          "Cash Flow Forecasting": "6-12 months forecast"
+        },
+        "Profitability Ratios": {
+          "Gross Profit Margin": "20-40%",
+          "Net Profit Margin": "Negative to Slightly Positive",
+          "ROI": "5-10%"
+        },
+        "Burn Rate": {
+          "Gross Burn Rate": "$50,000-$200,000/month",
+          "Net Burn Rate": "$30,000-$150,000/month"
+        },
+        "Liquidity Ratios": {
+          "Current Ratio": "1.0-1.5",
+          "Quick Ratio": "0.9-1.3"
+        },
+        "Debt Management": {
+          "Debt-to-Equity Ratio": "0.5-1.0",
+          "Interest Coverage Ratio": "1.5-2.0"
+        },
+        "CAC and LTV": {
+          "CAC": "$500-$1,000",
+          "LTV": "$2,000-$5,000",
+          "LTV:CAC Ratio": "3:1"
+        },
+        "Revenue Growth": {
+          "YoY Growth": "50-100%",
+          "MRR": "$10,000-$50,000"
+        }
+      },
+      "Series B": {
+        "Cash Flow Management": {
+          "Operating Cash Flow (OCF)": "Positive or Near Break-Even",
+          "Cash Flow Forecasting": "12-18 months forecast"
+        },
+        "Profitability Ratios": {
+          "Gross Profit Margin": "30-50%",
+          "Net Profit Margin": "0-10%",
+          "ROI": "10-15%"
+        },
+        "Burn Rate": {
+          "Gross Burn Rate": "$100,000-$500,000/month",
+          "Net Burn Rate": "$50,000-$300,000/month"
+        },
+        "Liquidity Ratios": {
+          "Current Ratio": "1.2-1.8",
+          "Quick Ratio": "1.1-1.5"
+        },
+        "Debt Management": {
+          "Debt-to-Equity Ratio": "0.7-1.2",
+          "Interest Coverage Ratio": "2.0-3.0"
+        },
+        "CAC and LTV": {
+          "CAC": "$1,000-$2,500",
+          "LTV": "$5,000-$10,000",
+          "LTV:CAC Ratio": "3:1 or higher"
+        },
+        "Revenue Growth": {
+          "YoY Growth": "30-70%",
+          "MRR": "$50,000-$200,000"
+        }
+      },
+      "Series C": {
+        "Cash Flow Management": {
+          "Operating Cash Flow (OCF)": "Positive",
+          "Cash Flow Forecasting": "18-24 months forecast"
+        },
+        "Profitability Ratios": {
+          "Gross Profit Margin": "40-60%",
+          "Net Profit Margin": "5-15%",
+          "ROI": "15-20%"
+        },
+        "Burn Rate": {
+          "Gross Burn Rate": "$200,000-$1,000,000/month",
+          "Net Burn Rate": "$100,000-$500,000/month"
+        },
+        "Liquidity Ratios": {
+          "Current Ratio": "1.5-2.0",
+          "Quick Ratio": "1.3-1.8"
+        },
+        "Debt Management": {
+          "Debt-to-Equity Ratio": "0.8-1.5",
+          "Interest Coverage Ratio": "3.0-4.0"
+        },
+        "CAC and LTV": {
+          "CAC": "$2,000-$5,000",
+          "LTV": "$10,000-$20,000",
+          "LTV:CAC Ratio": "4:1 or higher"
+        },
+        "Revenue Growth": {
+          "YoY Growth": "20-50%",
+          "MRR": "$200,000-$1,000,000"
+        }
+      },
+      "Series D": {
+        "Cash Flow Management": {
+          "Operating Cash Flow (OCF)": "Consistently Positive",
+          "Cash Flow Forecasting": "24-36 months forecast"
+        },
+        "Profitability Ratios": {
+          "Gross Profit Margin": "50-70%",
+          "Net Profit Margin": "10-20%",
+          "ROI": "20-30%"
+        },
+        "Burn Rate": {
+          "Gross Burn Rate": "$500,000-$2,000,000/month",
+          "Net Burn Rate": "$200,000-$1,000,000/month"
+        },
+        "Liquidity Ratios": {
+          "Current Ratio": "1.8-2.5",
+          "Quick Ratio": "1.5-2.2"
+        },
+        "Debt Management": {
+          "Debt-to-Equity Ratio": "1.0-2.0",
+          "Interest Coverage Ratio": "4.0-5.0"
+        },
+        "CAC and LTV": {
+          "CAC": "$5,000-$10,000",
+          "LTV": "$20,000-$50,000",
+          "LTV:CAC Ratio": "5:1"
+        },
+        "Revenue Growth": {
+          "YoY Growth": "10-30%",
+          "MRR": "$1,000,000-$5,000,000"
+        }
+      },
+      "Series E+": {
+        "Cash Flow Management": {
+          "Operating Cash Flow (OCF)": "Highly Positive",
+          "Cash Flow Forecasting": "36+ months forecast"
+        },
+        "Profitability Ratios": {
+          "Gross Profit Margin": "60-80%",
+          "Net Profit Margin": "15-30%",
+          "ROI": "30%+"
+        },
+        "Burn Rate": {
+          "Gross Burn Rate": "$1,000,000-$5,000,000/month",
+          "Net Burn Rate": "$500,000-$2,000,000/month"
+        },
+        "Liquidity Ratios": {
+          "Current Ratio": "2.0-3.0",
+          "Quick Ratio": "1.8-2.5"
+        },
+        "Debt Management": {
+          "Debt-to-Equity Ratio": "1.5-2.5",
+          "Interest Coverage Ratio": "5.0+"
+        },
+        "CAC and LTV": {
+          "CAC": "$10,000+",
+          "LTV": "$50,000+",
+          "LTV:CAC Ratio": "5:1 or higher"
+        },
+        "Revenue Growth": {
+          "YoY Growth": "5-15%",
+          "MRR": "$5,000,000+"
+        }
+      }
+    }
+  }
+  
